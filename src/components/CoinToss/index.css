@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.contain {
+  background-image: linear-gradient(to right, #f9d423, #e2a139);
+  height: 200vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.box {
+  text-align: center;
+  background-color: white;
+  width: 600px;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+.result {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.image {
+  height: 200px;
+  width: 200px;
+  margin-left: 40px;
+}
+p {
+  padding: 20px;
+  margin: 20px;
+}
+h1 {
+  color: #a35200;
+}
